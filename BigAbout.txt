@@ -1,0 +1,15 @@
+Welcome to Wolf Park!!
+
+To use the interactive map that gives you info and locations of the 
+species of the park, use the "MAP" button.
+
+To play the "Wolf Adventure" video game, use the "GAME" button.
+
+To update sounds and character narration, use the "Settings" button.
+
+Wolf Adventure was created in 2021 by Elizabeth Perkinson and Robert Rattray;
+developed and updated by Karthik Nimmala, Armado Vargo, and Cole Hacker.
+
+The Interactive Map was created by Sydney Loudermilk in 2023.
+
+Please press "spacebar" to exit.

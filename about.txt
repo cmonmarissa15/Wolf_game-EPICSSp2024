@@ -1,0 +1,21 @@
+Welcome to Wolf Adventure!
+This game will have three chapters, each with their own special parts:
+
+
+Chapter 1: You play as a baby wolf that will have to collect more food than 
+his fellow cubs to be able to survive in the wild.
+
+
+Chapter 2: You are now all grown up and need to go find a pack of your own!
+
+
+Chapter 3: Once you find your pack, you have to keep your pack fed for one 
+year. To do this, you will have to find the wolves from your pack spread 
+across the forest to hunt down a bison.
+
+
+Wolf Adventure was created in 2021 by Elizabeth Perkinson and Robert Rattray;
+developed and updated by Karthik Nimmala, Armado Vargo, and Cole Hacker.
+
+
+Press spacebar to exit.
